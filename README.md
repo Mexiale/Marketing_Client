@@ -1,2 +1,2 @@
 # Marketing_Client
-Compréhension du dataset afin de mieux comprendre chaque cattégorie de client
+Compréhension du dataset afin de mieux comprendre chaque catégorie de client
